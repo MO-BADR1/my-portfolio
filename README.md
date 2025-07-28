@@ -1,9 +1,9 @@
-# 👨‍💻 Mohamed Yasser AbdElhay
+#  Mohamed Yasser AbdElhay
 ### Computer Science Student | Aspiring Software Developer | Problem Solving Enthusiast
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I’m a Computer Science student at Ain Shams University with a huge passion for building real-world solutions.  
 I joined this field because I genuinely love solving logical problems and turning ideas into working code.  
@@ -13,7 +13,7 @@ In the future, I hope to help people by providing practical and effective soluti
 
 ---
 
-## 🎓 Education
+##  Education
 
 - **Faculty of Computer and Information Science**, Ain Shams University  
   *Student since 2024*
@@ -27,7 +27,7 @@ In the future, I hope to help people by providing practical and effective soluti
 
 ---
 
-## ⚙️ Skills
+##  Skills
 
 **Technical Skills**
 - Programming Languages: C++, Python
@@ -40,7 +40,7 @@ In the future, I hope to help people by providing practical and effective soluti
 
 ---
 
-## 💼 Work Experience
+##  Work Experience
 
 - **First-Year Project – Car Service Center System**  
   Designed and developed a simple console-based application that helps users identify potential spare parts needed based on their car's type, brand, and model.  
@@ -52,7 +52,7 @@ In the future, I hope to help people by providing practical and effective soluti
 
 ---
 
-## 🛠️ Offered Services
+##  Offered Services
 
 As a beginner developer, I currently build functional console-based applications using C++ and Python.  
 I focus on solving real-world problems through code that runs in the terminal.  
@@ -66,9 +66,9 @@ I’m working on expanding these skills to offer more advanced services in the n
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🔹 Coffee Machine (Python)  
+###  Coffee Machine (Python)  
 A console-based coffee machine simulator where users can select their drink (e.g., espresso, latte). Each drink requires specific ingredients (milk, water, coffee), and the machine checks availability before processing the order and payment.  
 > **Key Features:**  
 > - Input validation to ensure user provides correct values  
@@ -77,7 +77,7 @@ A console-based coffee machine simulator where users can select their drink (e.g
 
 ---
 
-### 🔹 Car Service Center (C++)  
+###  Car Service Center (C++)  
 A system that allows users to enter their car’s type, brand, and model, then returns whether maintenance or spare parts are needed. It simulates a basic diagnostic tool.  
 > **Key Features:**  
 > - Structured code with functions and file organization  
@@ -86,7 +86,7 @@ A system that allows users to enter their car’s type, brand, and model, then r
 
 ---
 
-### 🔹 Simple Calculator (C++)  
+###  Simple Calculator (C++)  
 A basic arithmetic calculator capable of handling operations like addition, subtraction, multiplication, and division.  
 > **Key Features:**  
 > - Clean function-based design  
@@ -95,14 +95,14 @@ A basic arithmetic calculator capable of handling operations like addition, subt
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 I’m currently focused on learning and building a strong technical foundation.  
 While I haven't received formal awards or certificates yet, I’ve successfully completed multiple beginner-level projects and participated in learning programs like ACM ASCIS and the NTI Python training.
 
 ---
 
-## 💬 Testimonials
+##  Testimonials
 
 > *"Mohamed always looks for ways to simplify processes and enhance functionality. He frequently contributes creative ideas that improve project outcomes."*  
 > – Peer Feedback
